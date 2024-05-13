@@ -1,0 +1,16 @@
+package com.example.flux.navigation
+
+const val ROUTE_HOME = "home"
+const val ROUTE_LOGIN ="login"
+const val ROUTE_REGISTER = "register"
+const val ROUTE_REPORTS = "reports"
+const val ROUTE_SETTINGS = "settings"
+const val ROUTE_BILL_INPUT = "billinput"
+const val ROUTE_BUDGET_INPUT = "budgetinput"
+const val ROUTE_EXPENSE_INPUT = "expenseinput"
+const val ROUTE_VIEW_BILLS = "viewbills"
+const val ROUTE_UPDATE_BILLS = "updatebills"
+const val ROUTE_VIEW_BUDGETS = "viewbudgets"
+const val ROUTE_UPDATE_BUDGETS = "updatebudgets"
+const val ROUTE_VIEW_EXPENSES = "viewexpenses"
+const val ROUTE_UPDATE_EXPENSES = "updateexpenses"

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056480020193",
+    "project_id": "flux-cac04",
+    "storage_bucket": "flux-cac04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056480020193:android:286fbe7e4439e24a6019a0",
+        "android_client_info": {
+          "package_name": "com.example.flux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywVZ0_DVLz1MCpppEslvT_yWGWRUi-VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
